@@ -1,0 +1,26 @@
+package.json
+
+
+{
+  "name": "Pakantot si ate",
+  "version": "1.0.0",
+  "description": "wala lang",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "pakantot na kayo sa podai ko",
+    "plss"
+  ],
+  "author": "secretn",
+  "license": "MIT"
+}
